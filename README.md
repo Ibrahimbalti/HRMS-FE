@@ -28,18 +28,22 @@ This project was created as part of a technical test to demonstrate UI/UX design
 
 ## How to Start the Backend
 
-````bash
+```bash
 
 npm install
 npx ts-node-dev index.ts
 
 
 
+```
+
 ## How to Start the Frontend
 
-1. Install dependencies:
 ```bash
+
 npm install
+npm run dev
 
 
-````
+
+```
